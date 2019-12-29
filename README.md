@@ -2,6 +2,10 @@
 
  -Autor: Gabriel Melián Hernández.
 
+Gif para ver su funcionamiento: https://gyazo.com/560c5f0d427dc3238ebbc70cdf9d1947
+
+
+
 Descripción de la Práctica: 
 
 -Crear un escenario básico para la escena del proyecto para la evaluación final.
